@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](https://via.placeholder.com/800x200/0d1117/ffffff?text=Server+Stress+Testing+Suite)
+![Banner](https://img.shields.io/badge/SERVER-STRESS%20TESTING-red?style=for-the-badge&logo=serverfault)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
